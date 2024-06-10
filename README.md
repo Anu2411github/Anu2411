@@ -55,7 +55,7 @@ I am currently pursuing a Master of Science in Computer Science (Data Analytics 
 
 ## Contact
 
-- **Email:** [your.email@example.com](sanusha197@gmail.com)
+- **Email:** [sanusha197@gmail.com](sanusha197@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
 
